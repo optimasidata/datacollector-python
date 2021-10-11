@@ -1,4 +1,4 @@
-# connecting to HBase Server
+# connecting to HBase thrift Server
 
 
 Install hbase driver package
@@ -7,7 +7,7 @@ pip install happybase
 ```
 
 
-Sample Connection to Secured Phoenix Query server
+Sample Connection to Hbase thrift server
 ```python
 import happybase
 connection = happybase.Connection('xxx.xxx.xxx.xxx',9090)
