@@ -6,6 +6,7 @@ Install hbase driver package
 pip install pyhive
 pip install thrift
 pip install sasl
+pip install thrift_sasl
 
 ```
 
