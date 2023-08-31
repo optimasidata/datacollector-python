@@ -21,3 +21,6 @@ cursor.execute("select * from db.table limit 10")
 print(cursor.fetchall())
 
 ```
+
+# HUE
+pip3 install impyla==0.16.2
