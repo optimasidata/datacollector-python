@@ -24,3 +24,9 @@ print(cursor.fetchall())
 
 # HUE
 pip3 install impyla==0.16.2
+
+thrift==0.11.0
+thrift-sasl==0.2.1
+bit-array==0.1.0
+impyla==0.15.0
+thriftpy==0.3.9
